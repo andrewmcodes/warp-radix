@@ -1,0 +1,26 @@
+# Based on the Radix color system
+# https://www.radix-ui.com/colors
+
+accent: "#52a9ff" # blue11
+background: "#151718" # slate1
+details: "darker"
+foreground: "#ecedee" # slate12
+terminal_colors:
+  bright:
+    black: "#000000" # slateA1
+    blue: "#53acff" # blueA11
+    cyan: "#4cd1e0" # cyanA11
+    green: "#006b3b" # greenA11
+    magenta: "#ff5fbc" # pinkA11
+    red: "#ff646a" # redA11
+    white: "#fdfeff" # slateA12
+    yellow: "#ffcc00" # yellowA11
+  normal:
+    black: "#151718" # slate1
+    blue: "#52a9ff" # blue11
+    cyan: "#00c2d7" # cyan11
+    green: "#4cc38a" # green11
+    magenta: "#f65cb6" # pink11
+    red: "#ff6369" # red11
+    white: "#ecedee" # slate12
+    yellow: "#f0c000" # yellow11
